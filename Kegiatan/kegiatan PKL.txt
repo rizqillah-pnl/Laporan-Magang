@@ -1,0 +1,165 @@
+Hari 1 - Senin 04 April
+- Perkenalan & Briefing
+- mengatur dokumen
+- mengambil barang survei biaya hidup (SBH)
+
+Hari 2 - Selasa 05 April
+- mengisi form data pelaksanaan ubinan sub round I
+- Input data sensuske excel
+
+Hari 3 - Rabu 06 April 
+- mengisi data form penerimaan kuesioner
+- menyusun data progress pencacahan susenas
+- mengisi data survei sosial ekonomi nasional 2022
+- mengisi data progres kuesioner susenas
+- menginput data survei
+
+Hari 4 - Kamis 07 April
+- Mengisi data survei
+- Menginput data survei ke Excel
+- Membuat form jadwal kegiatan sistem akuntabilitas kinerja instansi pemerintah (SAKIP) Tahun 2022
+- Memasukkan data survei ke map
+
+Hari 5 - Jumat 08 April
+- Menginput data survei sosial ekonomi 2022
+- memasukkan data ke dalam map
+- memasukkan barang ke dalam kotak
+
+Hari 6 - Senin 11 April
+- Mengatur jaringan server
+- Mengatur koneksi komputer client
+- Menginput data survei kuesioner
+- Menginput kode hasil survei
+- Memperbaiki jaringan server yang TimeOut
+
+Hari 7 - Selasa 12 April
+- Menginput data survei pada excel
+- Mengatur arsip data
+- Mengatur jaringan LAN
+- Entry data sensus ekonomi
+
+Hari 8 - Rabu 13 April
+- Entry data sensus ekonomi
+- Input data sensus ke excel
+- Mengatur jaringan koneksi internet
+- Memilah-milah arsip data sensus ekonomi per-NKS (Nomor Kode Sampel)
+
+Hari 9 - Kamis 14 April
+- Menginput data kuesioner ke excel
+- melakukan entry data sensus penduduk berdasarkan ekonomi
+- menginstal aplikasi SUSENAS pada komputer kantor
+- mengarsipkan data tiap-tiap blok penduduk
+
+Hari 10 - Senin 18 April
+- Menginput data kuesioner ke excel
+- Memperbaiki jaringan internet
+- Melakukan entri data sensus penduduk berdasarkan ekonomi
+
+Hari 11 - Selasa 19 April
+- Menginput data kuesioner ke excel
+- Mengentri data sensus penduduk
+- Menginstal aplikasi susenas dan suplemen di komputer kantor
+
+Hari 12 - Rabu 20 April
+- Menginput data kuesioner susenas ke excel
+- Menginstal aplikasi susenas beserta melakukan konfigurasi database yang digunakan
+- Mengentri data kuesioner ke aplikasi susenas
+
+Hari 13 - Kamis 21 April
+- Mengatur dokumen survei dalam per blok sensus
+- Menginput data survei ke excel
+- Melakukan entri data survei ke aplikasi susenas dan suplemen
+
+Hari 14 - Jumat 22 April
+- Mengatur jaringan internet
+- menginput data kuesioner ke excel
+- Mengentri data sensus penduduk berdasarkan ekonomi
+
+Hari 15 - Senin 25 April
+- Menginput data kuesioner ke excel
+- Mengentri data sensus penduduk ke susenas
+- Mengatur jaringan yang bermasalah
+- Memperbaiki kabel LAN kantor
+
+Hari 16 - Selasa 26 April
+- Menginput data kuesioner ke excel
+- Mengatur jaringan internet yang bermasalah
+- Melakukan instalasi aplikasi susenas dengan suplemen pada laptop ruang rapat
+- Mengentri data sensus penduduk
+
+Hari 17 - Rabu 27 April
+- Melakukan instalasi aplikasi susenas dan suplemen
+- Mengatur jaringan koneksi bermasalah
+- Mengentri data sensus penduduk
+- menginput data kuesioner sensus penduduk ke excel
+
+Hari 18 - Kamis 28 April
+- Menginput data survei kuesioner ke excel
+- Mengentri data suplemen survei penduduk
+- Melakukan validasi data susenas
+- Mengentri data susenas
+- Memperbaiki jaringan internet LAN
+
+Hari 19 - Senin 09 Mei
+- Menyusun perlengkapan peserta pelatihan
+- Mengemasi barang perlengkapan peserta
+- Mengatur jaringan server
+
+Hari 20 - Selasa 10 Mei
+- Membahas kinerja team selama susenas bersama karyawan kantor bps
+- Memilah dokumen mitra kerja
+- Menempel perangko ke dokumen mitra kerja
+- Menghitung jumlah hasil sensus penduduk
+
+Hari 21 - Rabu 11 Mei
+- Memeriksa jaringan internet client
+- Menjaga kantor BPS
+
+Hari 22 - Kamis 12 Mei
+- Mengatur jaringan LAN
+- Membersihkan Ruangan
+- Menjaga Kantor BPS
+
+Hari 23 - Jumat 13 Mei
+- Mengentry Data Suplemen dari Survey
+- Mengalokasi Data Dok Petugas LFSP
+- Print Denah Lokasi Cacahan
+- Menjaga Kantor BPS
+
+Hari 24 - Sabtu 14 Mei
+- Membantu mitra dalam melakukan sensus penduduk 2020 sebagai responden
+
+Hari 25 - Selasa 17 Mei
+- Mencatat daftar nama beserta nomor hp kadus, geuchik dan camat banda sakti
+- Mengevaluasi dokumen desa yang masuk
+- Membahas tentang provider internet bersama pak iqbal, pak reza putra, dan pak usman dari acehlink
+- Validasi daftar peta wilkerstat desa 2020, dan peta blok sensus
+
+Hari 26 - Rabu 18 Mei
+- Validasi daftat peta wilkerstat desa 2020 dan peta blok sensus
+- Membagi-bagi dokumen survei berdasarkan nama mitra
+- Mencatat ktp mitra pada sensus penduduk 2020
+- Menginput data nama dan nomor hp keuchik dan kadus desa
+- Menjaga kantor bps di bagian resepsionis
+
+Hari 27 - Kamis 19 Mei
+- Mengentri data SBH(Survei Biaya Hidup) pada website
+- Mencatat nomor kadus di kecamatan Blang Mangat
+- Menyusun peta wilkerstat
+
+Hari 28 - Jumat 20 Mei
+- Mengentri data SBH ke website
+- Memvalidasi data SBH
+- Menyusun dokumen SBH berdasarkan BL, LK, dan S
+
+Hari 29 - Senin 23 Mei
+- Melakukan survei ke alue lim
+- Mengisi data denah peletakan rumah penduduk yang aktual
+
+
+
+
+
+SUSENAS (Survei Sosial Ekonomi Nasional)
+SAKERNAS (Survei Angkata Kerja Nasional)
+SBH (Suvei Biaya Hidup)
