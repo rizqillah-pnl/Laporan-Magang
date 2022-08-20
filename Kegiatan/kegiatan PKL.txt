@@ -153,8 +153,311 @@ Hari 28 - Jumat 20 Mei
 - Menyusun dokumen SBH berdasarkan BL, LK, dan S
 
 Hari 29 - Senin 23 Mei
-- Melakukan survei ke alue lim
+- Melakukan survei sensus penduduk ke desa alue lim
 - Mengisi data denah peletakan rumah penduduk yang aktual
+
+Hari 30 - Selasa 24 Mei
+- Melakukan survei sensus penduduk di alue lim
+
+Hari 31 - Rabu 25 Mei
+- Menjaga kantor bps
+- Memperbarui letak rumah warga di map wilkerstat 
+
+Hari 32 - Jumat 27 Mei
+- Memperbaiki jaringan koneksi internet
+- Stempel logo BPS di buku laporan pengelolaan keuangan
+
+Hari 33 - Senin 30 Mei 
+- Memilah berkas rekening mitra sensus penduduk 2020
+- Menginput data nama, jabatan, dan nomor rekening mitra sensus penduduk 2020
+- Mengentri data dokumen pemutakhiran sensus penduduk 2020
+
+Hari 34 - Selasa 31 Mei
+- Mengentri data dokumen pemutakhiran sensus penduduk 2020
+- Memperbaiki aplikasi zoom di komputer pegawai
+- Memperbaiki jaringan koneksi internet yang bermasalah
+
+Hari 35 - Kamis 2 Juni
+- Mengentri data dokumen pemuthakiran sensus penduduk 2020
+- Validasi data dokumen pemuthakiran sensus penduduk 2020
+
+Hari 36 - Jumat 3 Juni
+- Mengentri data dokumen pemutakhiran sensus penduduk 2020
+- Validasi data dokumen pemuthakiran sensus penduduk 2020
+
+Hari 37 - Senin 6 Juni
+- Apel senin pagi
+- Mengentri data dokumen pemuthakiran sensus penduduk 2020
+- Diagnosa jaringan WiFi kantor yang bermasalah
+- Memperbaiki jaringan internet ruang IPDS
+
+Hari 38 - Selasa 7 Juni
+- Mengentri data dokumen pemuthakiran sensus penduduk 2020
+- Validasi data dokumen pemutakhiran sensus penduduk 2020
+
+Hari 39 - Rabu 8 Juni
+- Mengentri data dokumen pemuthakiran sensus penduduk 2020
+- Validasi data dokumen pemutakhiran sensus penduduk 2020
+
+Hari 40 - Kamis 9 Juni
+- Mengentri data dokumen pemuthakiran sensus penduduk 2020
+- Validasi data dokumen pemutakhiran sensus penduduk 2020
+
+Hari 41 - Jumat 10 Juni
+- Latihan Badminton di SKB bersama pegawai kantor BPS
+- Mengentri data dokumen pemuthakiran sensus penduduk 2020
+- Validasi data dokumen pemutakhiran sensus penduduk 2020
+
+Hari 42 - Senin 13 Juni
+- Apel senin pagi
+- Mencari dokumen kerja SUSENAS 2022
+- Mengentri dokumen SBH 2022 Triwulan II
+- Validasi dokumen SBH 2022 Triwulan II
+
+Hari 43 - Selasa 14 Juni
+- Mengentri dokumen SBH 2022 Triwulan I
+- Validasi dokumen SBH 2022 Triwulan I
+- Validasi dokumen SBH 2022 Triwulan II
+- Scan peta WB hasil pemutakhiran LFSP 2020
+
+Hari 44 - Rabu 15 Juni
+- Scan peta WB hasil pemutakhiran LFSP 2020
+- Mengatur jaringan koneksi internet
+- Scan peta WA, WS dan WB perdesa
+
+Hari 45 - Kamis 16 Juni
+- Scan peta WA, WS dan WB perdesa
+- Briefing tim pencacahan sensus penduduk kecamatan blang mangat
+- Mengatur aplikasi yang tidak digunakan di komputer kantor
+
+Hari 46 - Jumat 17 Juni
+- Scan Peta WA, WS dan WB perdesa
+- Mengatur koneksi internet
+- Merancang projek laporan magang
+
+Hari 47 - Senin 20 Juni
+- Apel senin pagi
+- Merancang projek aplikasi magang
+- Merancang DFD, ERD dan kebutuhan aplikasi
+- Design UI aplikasi
+
+Hari 48 - Selasa 21 Juni
+- Membuat database aplikasi magang
+- Membuat daftar tabel buku publikasi 
+- Mengentri dokumen SBH Triwulan II
+- Mengatur data buku DDA
+
+Hari 49 - Rabu 22 Juni
+- Merancang sistem login aplikasi
+- Merapikan daftar tabel publikasi buku DDA
+
+Hari 50 - Kamis 23 Juni
+- Merapikan daftar tabel publikasi buku DDA
+- Mengentri data publikasi buku DDA
+- Menyusun dokumen perlengkapan SPJ
+
+Hari 51 - Jumat 24 Juni
+- Mengentri data publikasi buku DDA
+- Merapikan isi dari publikasi buku DDA
+
+Hari 52 - Senin 27 Juni
+- Apel senin pagi
+- Merancang sistem keamanan projek magang
+- Mengatur jaringan koneksi internet
+
+Hari 53 - Selasa 28 Juni
+- Merancang API google maps dan ArcGIS di projek magang
+- Mengatur jaringan koneksi internet
+
+Hari 54 - Rabu 29 Juni
+- Merancang keamanan aplikasi projek magang
+- Merancang sistem hak akses
+- Mengatur jaringan koneksi internet
+
+Hari 55 - Kamis 30 Juni
+- Merancang sistem akun aplikasi projek magang
+- Membuat surat daftar hadir rekonsiliasi
+- Membuat web hosting untuk projek aplikasi magang
+
+Hari 56 - Jumat 1 Juli
+- Merancang pembagian tampilan aplikasi projek magang
+- Menyusun perlengkapan hadiah untuk keluarga sampel dari hasil LFSP (Long Form Sensus Penduduk) 2020
+- Membuat duplikat untuk beberapa rangkap dokumen perlengkapan SBH (Survey Biaya Hidup)
+- Merancang sistem pagination dan pencarian pada aplikasi projek magang menggunakan teknologi Ajax dan Jquery
+
+Hari 57 - Senin 4 Juli
+- Merancang project aplikasi penjualan berbasis web
+- Mengentri dokumen BL-2 SBH
+- Mengentri dokumen LK SBH
+
+Hari 58 - Selasa 5 Juli
+- Merancang sistem profil dari aplikasi penjualan
+- Mengentri dokumen BL-2 SBH
+- Mengatur jaringan koneksi internet
+
+Hari 59 - Rabu 6 Juli
+- Merancang sistem daftar barang dan fitur keranjang aplikasi penjualan berbasis web
+- Mengentri data sensus penduduk 2020 dokumen C2
+- Menyusun berkas petugas LFSP2020
+
+Hari 60 - Kamis 7 Juli
+- Membuat sistem update profile di aplikasi GeoBase
+- Menyusun berkas perjanjian petugas LFSP2020
+- Memperbaiki jaringan koneksi internet ruang IPDS
+- Membuat laporan kegiatan pertemuan LFSP2020
+
+Hari 61 - Jumat 8 Juli
+- Merancang sistem keamanan aplikasi projek magang
+- Menyusun dokumen petugas LFSP2020
+- Merancang sistem update dan delete akun projek magang
+
+Hari 62 - Rabu 13 Juli
+- Merancang sistem keamanan update profil dan akun user aplikasi GeoBase
+- Survei harga konsumen di pasar Lhokseumawe
+- Menyusun berkas mitra BPS
+
+Hari 63 - Kamis 14 Juli
+- Merancang sistem geolocation berbasi Arcgis di aplikasi GeoBase
+- Mengambil dokumen survei SBH dan harga konsumen di kecamatan Banda Sakti
+- Membuat sistem insert data geolocation ke dalam database
+
+Hari 64 - Jumat 15 Juli
+- Melakukan survei harga konsumen di pasar lhokseumawe
+- Merancang fitur marker maps di aplikasi GeoBase
+- Memperbaiki keamanan aplikasi GeoBase
+
+Hari 65 - Senin 18 Juli
+- Merancang fitur untuk menampilkan marker maps di aplikasi GeoBase
+- Mengambil dokumen survei harga konsumen
+- Merancang fitur login dan registrasi di bagian keamanan
+
+Hari 66 - Selasa 19 Juli
+- Merancang fitur untuk menambahkan tanda pada peta di aplikasi GeoBase
+- Membuat fitur untuk menampilkan seluruh tata letak bangunan yang telah diinput
+- Memperbaiki proses pengambilan data melalui ajax di aplikasi
+
+Hari 67 - Rabu 20 Juli
+- Membuat tampilan maps beserta menu menjadi lebih friendly untuk pengguna
+- Mengikuti pelatihan VSGA di bidang Junior Web Developer
+- Mengentri data email, no hp, nama, dan tanggal kunjungan pengambil data BPS
+
+Hari 68 - Kamis 21 Juli
+- Mengatur jaringan koneksi internet
+- Merancang fitur chattingan di projek GeoBase
+- Merancang tampilan chattingan di project GeoBase
+
+Hari 69 - Jumat 22 Juli
+- Merancang validasi inputan pesan untuk fitur chattingan
+- Memperbarui tampilan login dan register
+- Mengikuti pelatihan VSGA pertemuan ke-2
+
+Hari 70 - Senin 25 Juli
+- Memperbarui sistem chattingan aplikasi GeoBase
+- Mengikuti pelatihan VSGA pertemuan ke-3
+- Memperbarui redirect URL aplikasi GeoBase
+- Mengatur buku laporan keuangan kantor
+
+Hari 71 - Selasa 26 Juli
+- Merancang tampilan halaman home aplikasi GeoBase
+- Memperbaiki tampilan chattingan aplikasi GeoBase
+- Mengatur dokumen laporan pengeluaran kantor
+
+Hari 72 - Rabu 27 Juli
+- Menginplementasikan SweetAlert di aplikasi GeoBase
+- Memperbarui tampilan halaman home aplikasi GeoBase
+- Memperbarui sistem alert atau pemberitahuan aplikasi
+- Mengikuti pelatihan VSGA pertemuan ke-4
+
+Hari 73 - Kamis 28 Juli
+- Membuat fitur tambah pertanyaan di entri bangunan
+- Mengupgrade sistem keamanan aplikasi GeoBase
+- Memperbarui tampilan entri data bangunan
+
+Hari 74 - Jumat 29 Juli
+- Membuat proses jika menerima pesan terbaru, maka akan mengupdate tampilan ruang pesan
+- Membuat tampilan UI di bagian fitur daftar bangunan dan daftar user agar lebih userfriendly
+- Mengentri dokumen Sakernas Bulan Agustus 2022
+- Mengikuti pelatihan VSGA pertemuan ke-5
+
+Hari 75 - Senin 1 Agustus
+- Merancang sistem visitor web berdasarkan traffic ip dan jenis browser yang digunakan oleh client
+- Merancang tampilan halaman dashboard yang lebih menarik
+- Mengikuti pelatihan VSGA pertemuan ke-6
+
+Hari 76 - Selasa 2 Agustus
+- Membuat sistem daftar pekerjaan aplikasi simitra
+- Mengentri dokumen Sakernas Bulan Agustus 2022
+- Menginstal aplikasi sakernas di laptop kantor
+- Membuat tampilan halaman home aplikasi simitra
+
+Hari 77 - Rabu 3 Agustus
+- Mengentri dokumen Sakernas Bulan Agustus 2022
+- Mengentri dokumen SBH Triwulan 2 LK
+- Membuat tampilan SweetAlert yang lebih friendly di aplikasi GeoBase
+- Memperbarui sistem Update Profil di aplikasi GeoBase
+
+Hari 78 - Kamis 4 Agustus
+- Memperbaiki sistem input data bangunan aplikasi GeoBase
+- Memperbaiki validasi entri data aplikasi Geobase
+- Survei data Keuchik, Tuha peut, Kadus dan jumlah Stunting di desa kecamatan Muara Dua
+- Memperbarui sistem visitor aplikasi GeoBase
+
+Hari 79 - Jumat 5 Agustus
+- Mengikuti acara perpisahan Pak Reza Putra di Aula BPS
+- Mengentri dokumen Sakernas Bulan Agustus
+- Membuat powerpoint untuk presentasi project GeoBase
+- Menyusun dokumen kerja untuk petugas survei
+
+Hari 80 - Senin 8 Agustus
+- Mengikuti Apel senin pagi
+- Melakukan presentasi project magang aplikasi GeoBase di Aula BPS
+- Memperbaiki fitur aplikasi GeoBase
+- Mengikuti pelatihan VSGA pertemuan 8
+- Mengentri dokumen Sakernas Agustus
+
+Hari 81 - Selasa 9 Agustus
+- Memperbaiki sistem daftar bangunan rumah tangga
+- Mengikuti pelatihan VSGA pertemuan 9
+- Memperbaiki komputer kepala ruang IPDS yang lambat
+- Membuat laporan magang BAB 1 dan BAB 2
+
+Hari 82 - Rabu 10 Agustus
+- Melanjutkan pembuatan laporan magang BAB 2 dan BAB 3
+- Mengikuti pelatihan VSGA pertemuan 10
+- Validasi dokumen SBH dengan tipe LK
+
+Hari 83 - Kamis 11 Agustus
+- Merancang aplikasi perpustakaan online
+- Mengatur jaringan koneksi internet
+- Validasi dokumen SBH
+
+Hari 84 - Jumat 12 Agustus
+- Menyusun seluruh dokumen survei di ruang IPDS
+- Mengikuti pelatihan VSGA pertemuan 11
+- Merancang tampilan daftar anggota aplikasi perpustakaan online
+- Menyusun daftar tabel buku KCDA (Kecamatan Dalam Angka) 2021
+
+Hari 85 - Senin 15 Agustus
+- Menyusun daftar tabel buku KCDA untuk kecamatan Blang Mangat, Muara Dua, Muara Satu, dan  Banda Sakti
+- Membuat sistem validasi inputan daftar anggota aplikasi perpustakaan online
+- Membuat sistem pencarian menggunakan ajax di aplikasi perpustakaan online
+- Menyusun dokumen petugas SBH
+- Mengikuti pelatihan VSGA pertemuan 12
+
+Hari 86 - Selasa 16 Agustus
+- Membuat penggunaan API github di aplikasi perpustakaan
+- Menyusun laporan magang
+- Membuat sistem pendaftaraan pekerjaan di aplikasi simitra
+- Memperbaiki tampilan dashboard aplikasi perpustakaan
+
+Hari 87 - Jumat 19 Agustus
+- Menyusun dokumen SBH berdasarkan jumlah anggota keluarga
+- Mengikuti pelatihan VSGA pertemuan 13
+- Merancang sistem tampilan daftar buku pada aplikasi perpustakaan
+- Menyusun dokumen kerja untuk Survei Biaya Hidup Triwulan II
+
+
+
 
 
 
@@ -163,3 +466,31 @@ Hari 29 - Senin 23 Mei
 SUSENAS (Survei Sosial Ekonomi Nasional)
 SAKERNAS (Survei Angkata Kerja Nasional)
 SBH (Suvei Biaya Hidup)
+Wilkerstat (Wilayah Kerja Statistik)
+
+
+
+Nama-nama karyawan BPS :
+- Pak Iqbal Firdaus - PLH Kepala - Cunda
+- Bang Fitrah - IPDS - Kandang sp.btn
+- Bang Dimas - TU - Uteun bayi
+- Bang Putra - Satpam - Uteun bayi
+- Buk Ema Juniati - IPDS 
+- Buk Iryani - IPDS - Perumahan Mutiara
+- Kak Suci Maulida - IPDS - Keude Aceh
+- Pak Reza Putra(REPU) - IPDS - Uteun bayi, asal sigli
+- Buk Yusra - Ruang perpus
+- Pak Abdurrahman atau Paman - TU
+- Bang Rahmad Riza - alue lim (jenggot)
+- Kak Epik - Pake kacamata yang bawa anak
+- Kak Dina (Madinawati) - Ibu hamil pake kacamata
+- Pak Bit - Satpam BPS
+- Pak Abdullah Nurdin - Kasie Produksi - Kandang
+- Bang Muhammad Bohari Rahman - TU pake kacamata
+- Bang Muhammad Ikhwani (Produksi, hitam) - KSK blang mangat
+- Kak Nadia - Pegawai baru - Simpang keramat B. Aceh
+- Kak Zakia - Pegawai baru - B. Aceh
+- Buk Mimi pake kacamata lantai 2
+- Kak Eka lantai 2 yang muda
+- Buk Hera Pindahan dari Aceh Utara
+-
