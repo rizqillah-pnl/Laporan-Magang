@@ -456,7 +456,35 @@ Hari 87 - Jumat 19 Agustus
 - Merancang sistem tampilan daftar buku pada aplikasi perpustakaan
 - Menyusun dokumen kerja untuk Survei Biaya Hidup Triwulan II
 
+Hari 88 - Senin 22 Agustus
+- Menyusun dokumen SUSENAS bulan 9
+- Menyusun perlengkapan atribut petugas SUSENAS
+- Mengikuti pelatihan VSGA pertemuan 14
+- Membuat fitur download pdf dari data transaksi aplikasi perpustakaan
+- Set-up peralatan komputer ruang IPDS dan berbenah dokumen-dokumen dari ruang IPDS
 
+Hari 89 - Selasa 23 Agustus
+- Membuat fitur profille dan validasi edit profile dan ganti password aplikasi perpustakaan
+- Memperbarui tampilan dashboard aplikasi perpustakaan
+- Memperbaiki jaringan LAN komputer kepala IPDS yang bermasalah
+- Mengambil data penduduk untuk KCDA (Kecamatan Dalam Angka) di kantor Disdukcapil
+
+Hari 90 - Rabu 24 Agustus
+- Mengikuti pelatihan VSGA pertemuan terakhir
+- Menyelesaikan project aplikasi perpustakaan
+- Mempresentasikan project perpustakaan
+- Mengumpulkan project perpustakaan
+
+Hari 91 - Kamis 25 Agustus
+- Mengedit daftar tabel dan gambar buku KCDA
+- Membuat rancangan DFD level 1
+- Memperbaiki jaringan LAN yang bermasalah
+- Setup komputer pegawai kantor yang baru diperbaiki
+
+Hari 92 - Jumat 26 Agustus
+- Gotong royong se-kota Lhokseumawe
+- Belajar TailwindCSS
+- Memperbaiki jaringan internet komputer IPDS
 
 
 
